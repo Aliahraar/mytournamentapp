@@ -32,11 +32,8 @@ A cross-platform Flutter mobile application for managing tournaments, powered by
 
 - Flutter SDK: [Install Flutter](https://docs.flutter.dev/get-started/install)
 - Laravel: [Install Laravel](https://laravel.com/docs/11.x)
-- MySQL or any preferred database
+- MySQL 
 
-### Flutter Setup
 
-1. Clone the Flutter project:
-   ```bash
-   git clone https://github.com/yourusername/tournament-flutter-app.git
-   cd tournament-flutter-app
+
+
